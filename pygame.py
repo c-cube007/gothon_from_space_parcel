@@ -29,7 +29,7 @@ class Death(Scene):
     quips = [
         "You died. You kinda suck at this.",
         "Your mom would be proud...if she were smarter.",
-        "Such a luser.",
+        "Such a loser.",
         "I have a small puppy that's better at this.",
         "You're worse than your dad's jokes."
     ]
